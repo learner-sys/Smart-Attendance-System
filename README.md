@@ -1,1 +1,3 @@
 # Smart-Attendance-System
+
+The project aims to design and document an architecture for "Smart Attendance", a company that provides smart solutions to educational institutions. The system will be a highly reliable, scalable, and efficient attendance management system that uses AWS services for image processing, face recognition, and data storage. The system will use cameras in classrooms to capture images every 5 minutes, which will be processed for face recognition in the cloud. The attendance data will be stored in a database and accessible to instructors and students through a web page. The project will also include detailed cost estimation, and guidelines for fault-tolerant, highly available, scalable systems.
